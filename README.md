@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Shengxin Xiao, you can also call me Zion(btw similar to my name in Cantonese Pronunciation)
+https://leionel.github.io/
 - Currently Studying in School of Mathematics and Statstics,Wuhan Univ.,China(Year 2)
 - Major: Informative and Computing Science
 - interested in how llm works
