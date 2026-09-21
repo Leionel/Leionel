@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Shengxin Xiao, you can also call me Zion(btw similar to my name in Cantonese Pronunciation)
-https://leionel.github.io/
-- Currently Studying in School of Mathematics and Statstics,Wuhan Univ.,China(Year 2)
+I'm Shengxin Xiao, https://leionel.github.io/
+- Currently Studying in School of Mathematics and Statstics,Wuhan University,China(Year 3)
 - Major: Informative and Computing Science
-- interested in how llm works
+- interested in how llm works & how agents can be applied to daily life🤓
+- looking for internship in agents 😊
 <!--
 **Leionel/Leionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Status
