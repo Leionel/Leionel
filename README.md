@@ -3,10 +3,7 @@
 I'm Shengxin Xiao, https://leionel.github.io/
 - Currently Studying in School of Mathematics and Statstics,Wuhan University,China(Year 3)
 - Major: Informative and Computing Science
-- interested in how llm works & how agents can be applied to daily life🤓
-- looking for internship in agents 😊
-
-   ![](individualbox.png)
+- interested in how llm works & how agents can be applied to daily life🤓 😊
 <!--
 **Leionel/Leionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Status
